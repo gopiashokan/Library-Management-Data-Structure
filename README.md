@@ -1,4 +1,4 @@
-# library Management Data Structure
+# Library Management Data Structure
 
 This algorithm is designed to assist in the management of books in a library. It provides functionality to track books, lend them to users, and manage the book database.
 
