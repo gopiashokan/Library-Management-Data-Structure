@@ -42,7 +42,8 @@ class customer:
         self.book = input()
         return self.book
 
-lib = library(['B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B9', 'B10'])
+user_input = input().split()      # example:['B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B9', 'B10']
+lib = library(user_input)
 cus = customer()
 customer_data = {}
 while True:
