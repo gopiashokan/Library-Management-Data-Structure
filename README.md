@@ -54,4 +54,4 @@ This algorithm is released under the MIT License. Please review the LICENSE file
 
 **Contact Information**
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at gopiashokankiot@gmail.com.
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at www.linkedin.com/in/gopiashokan.
