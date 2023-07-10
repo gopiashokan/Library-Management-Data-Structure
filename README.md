@@ -7,27 +7,27 @@ This algorithm is designed to assist in the management of books in a library. It
 
 The Library Book Management Algorithm is developed to streamline the processes involved in managing books in a library. It offers the following key features:
 
-1. Show List of Books: The algorithm allows you to view the list of books available in the library. This helps both the librarians and users to easily find books of interest.
+- **Show List of Books:** The algorithm allows you to view the list of books available in the library. This helps both the librarians and users to easily find books of interest.
 
-2. Lend a Book: With this algorithm, you can lend books to users. When a book is lent, the algorithm captures and stores user data in the library's database. This ensures efficient tracking of borrowed books and helps maintain records.
+- **Lend a Book:** With this algorithm, you can lend books to users. When a book is lent, the algorithm captures and stores user data in the library's database. This ensures efficient tracking of borrowed books and helps maintain records.
 
-3. Return a Book: When a user returns a borrowed book, the algorithm updates the database to reflect the return. This facilitates accurate inventory management and keeps the library's database up to date.
+- **Return a Book:** When a user returns a borrowed book, the algorithm updates the database to reflect the return. This facilitates accurate inventory management and keeps the library's database up to date.
 
 
 **Usage**
 
 To utilize this algorithm effectively, follow these instructions:
 
-1. Showing List of Books:
+- **Showing List of Books:**
 Invoke the algorithm's function to retrieve the list of books.
 The algorithm will display the books along with their relevant details such as title, author, and availability.
 
-2. Lending a Book:
+- **Lending a Book:**
 Use the provided function to lend a book to a user.
 Supply the necessary information, such as the book title and user details, to complete the lending process.
 The algorithm will update the database to reflect the loan and store the user's data for future reference.
 
-3. Returning a Book:
+- **Returning a Book:**
 Call the algorithm's function to register the return of a borrowed book.
 Provide the required information, such as the book title and user details, for accurate tracking.
 The algorithm will update the database accordingly, marking the book as available for lending.
