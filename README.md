@@ -52,6 +52,10 @@ Submit a pull request, describing the changes you've made and their purpose.
 This algorithm is released under the MIT License. Please review the LICENSE file for more details.
 
 
-**Contact Information**
+**Contact**
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at gopiashokankiot@gmail.com.
+📧 Email: gopiashokankiot@gmail.com 
+
+🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+
+For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
